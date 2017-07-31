@@ -1,0 +1,19 @@
+News for Bracelet Solver
+
+Version 0.02
+31-07-17 Adrian Rossiter <adrian@antiprism.com>
+         Changes
+           bracelet_solver: change approach, look for optimal solutions
+         Build
+           Use Autotools
+
+Version 0.01
+10-10-13 Adrian Rossiter <adrian@antiprism.com>
+         New Programs
+           bracelet_solver: finds knotting patterns for normal bracelet designs
+           pat2design: converts knotting pattern to bracelet design, which may
+             be used as input to bracelet_solver
+
+
+
+
